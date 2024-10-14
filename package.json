@@ -41,6 +41,7 @@
     "@storybook/vue3-vite": "^8.3.2",
     "@vitejs/plugin-vue": "^5.0.4",
     "@vue/eslint-config-prettier": "^9.0.0",
+    "chromatic": "^11.12.5",
     "eslint": "^8.57.0",
     "eslint-plugin-storybook": "^0.8.0",
     "eslint-plugin-vue": "^9.23.0",
